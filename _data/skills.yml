@@ -1,12 +1,8 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- description: My <strong>technical skills</strong> span a broad spectrum, including&#58;
+  details:
+        - skill: <strong>Proficiency in C</strong> with over ten years of <strong>embedded and low-level software development</strong>.
+        - skill: <strong>Expertise in ARM Assembly</strong>, complemented by competence in Python.
+        - skill: Competent in <strong>hardware debugging</strong>, <strong>reverse engineering</strong>, and <strong>binary analysis</strong>.
+        - skill: Skilled in using <strong>diagnostic tools</strong> such as Oscilloscope, GDB, Logic Analyzer, and JTAG/SWD.
+        - skill: <strong>Proficiency in version control systems</strong> such as Git and SVN.
