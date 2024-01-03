@@ -23,7 +23,7 @@ resume_contact_address:         "Surrey, UK"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>As a seasoned Embedded Software Engineer, I specialize in offering high-value, bespoke consulting services for complex and precise challenges in software development. My expertise lies in fostering collaborative solutions and navigating intricate technical landscapes. With a strong commitment to innovation, I actively contribute to open-source projects like Barebox, continuously enriching my skillset. I excel in rapidly understanding and resolving specific issues that arise during the development process, making me an ideal partner for short-term, high-impact projects. Let me bring my deep-rooted knowledge and proactive approach to elevate your development journey.</p>"
+resume_header_intro: "<p>I am an Embedded Software Engineer with a focus on short-term, high-value consulting. My passion is solving complex and specific challenges in software development. Along with a strong interest in open-source projects like Barebox and Linux Kernel, I continuously grow my skills. My approach is all about working together to quickly find solutions to the unique problems you face during development. If you're looking for expert guidance to swiftly navigate through your project's technical difficulties, I'm here to help.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

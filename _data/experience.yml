@@ -1,19 +1,6 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+#- company: Springfield International Human Rights Outreach
+  #position: VP of Global Communications
+  #duration: Oct, 2013 &mdash; Present
+-  summary: As an Embedded Software Engineer with extensive experience, I have a proven track record of developing sophisticated firmware and software solutions in various real-time contexts. My expertise includes:
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+<ul class="resume-item-list"><li>Designing and implementing embedded firmware for a range of platforms, notably STM32L4 and custom ASICs, utilizing both proprietary and open-source kernels and driver stacks.</li><li>Architecting and deploying firmware update mechanisms tailored to customer needs.</li><li>Developing and debugging custom communication protocols, including SPI UART, and integrating hardware acceleration features like AES drivers for secure channels.</li><li>Developing and debugging custom communication protocols, including SPI UART, and integrating hardware acceleration features like AES drivers for secure channels.</li><li>Contributing significantly to open-source projects, with a focus on real-time operating systems for Cortex-M4 platforms, bootloader enhancements for ARM64 architecture, and Linux kernel improvements.</li></ul>
