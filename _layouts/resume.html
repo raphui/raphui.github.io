@@ -29,7 +29,9 @@
         <div class="title-bar no-print">
 
           <!-- Your title is also defined in the _config.yml file -->
-          <h2 class="header-title" itemprop="jobTitle">{{ site.resume_title }}</h2>
+	  <header class="section-header">
+             <h2>{{ site.resume_title }}</h2>
+	  </header>
 
           <!-- This is the markup for the icon links; moved out to an include because it's very verbose, and you shouldn't ever need to edit the markup (unless you want to re-order the icons); if you want to customize which links appear, define them in the _config.yml file -->
           {% include icon-links.html %}
@@ -40,7 +42,7 @@
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
+        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact us</a>
         {% elsif site.resume_looking_for_work == 'no' %}
         <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
         {% else %}
@@ -53,7 +55,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>How I can help</h2>
+          <h2>Our services</h2>
         </header>
 
         {% for help in site.data.help %}
@@ -265,6 +267,8 @@
       {% endif %}
 
       <footer class="page-footer">
+	  <h2>Contact TechNest</h2>
+	  <p>For expert guidance and innovative solutions in embedded software development, reach out to TechNest. We are here to help you swiftly navigate through your project's technical challenges and achieve success.</p>
       </footer>
 
     </div>

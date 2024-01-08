@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Raphael Poggi"
-resume_title:                   "Embedded Software Engineer"
+resume_name:                    "TechNest:<br />Embedded Software Excellence"
+resume_title:                   "Who we are"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "poggi.raph@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "Surrey, UK"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am an Embedded Software Engineer with a focus on short-term, high-value consulting.<br />My passion is solving complex and specific challenges in software development. Along with a strong interest in open-source projects like Barebox and Linux Kernel, I continuously grow my skills.<br /> My approach is all about working together to quickly find solutions to the unique problems you face during development. If you're looking for expert guidance to swiftly navigate through your project's technical difficulties, I'm here to help.</p>"
+resume_header_intro: "<p>At TechNest, we are a team of dedicated Embedded Software Engineers specializing in high-value, short-term consulting.<br /> Our core mission is to tackle complex and specific challenges in software development.<br /> Our passion for innovation is reflected in our significant contributions to open-source projects like Barebox and the Linux Kernel, which keep us at the forefront of technological advancements.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -46,13 +46,13 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/raphui"
+  #resume_github_url:            "https://github.com/raphui"
   #  resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/rpoggi"
+  #resume_linkedin_url:          "https://www.linkedin.com/in/rpoggi"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://www.raphaelpoggi.fr"
+  #resume_website_url:           "https://www.raphaelpoggi.fr"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
