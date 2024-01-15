@@ -1,6 +1,6 @@
 # Site settings
-title: "Raphael Poggi"
-description: "Raphael Poggi's personal page"
+title: "LynxLeap Software"
+description: "LynxLeap Software"
 
 # Build settings
 markdown: kramdown
@@ -9,12 +9,13 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
-resume_name:                    "TechNest:<br />Embedded Software Excellence"
+resume_avatar:                  "true"
+resume_name:                    "LynxLeap"
+resume_subname:                 "Embedded Software Excellence"
 resume_title:                   "Who we are"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "poggi.raph@gmail.com"
+resume_contact_email:           "contact@lynxleap.co.uk"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
@@ -23,7 +24,7 @@ resume_contact_address:         "Surrey, UK"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>At TechNest, we are a team of dedicated Embedded Software Engineers specializing in high-value, short-term consulting.<br /> Our core mission is to tackle complex and specific challenges in software development.<br /> Our passion for innovation is reflected in our significant contributions to open-source projects like Barebox and the Linux Kernel, which keep us at the forefront of technological advancements.</p>"
+resume_header_intro: "<p>At LynxLeap, we are a team of dedicated Embedded Software Engineers specializing in high-value, short-term consulting.<br /> Our core mission is to tackle complex and specific challenges in software development.<br /> Our passion for innovation is reflected in our significant contributions to open-source projects like Barebox and the Linux Kernel, which keep us at the forefront of technological advancements.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

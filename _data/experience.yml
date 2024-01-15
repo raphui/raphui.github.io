@@ -1,5 +1,5 @@
 #Jobs
-- summary: TechNest boasts a proven track record in developing sophisticated firmware and software solutions across various real-time contexts. Our expertise encompasses&#58;
+- summary: LynxLeap boasts a proven track record in developing sophisticated firmware and software solutions across various real-time contexts. Our expertise encompasses&#58;
   tasks:
           - task: Designing and implementing <strong>embedded firmware</strong> for a range of platforms, notably <strong>STM32F4/L4</strong> and <strong>custom ASICs</strong>, utilizing both proprietary and <strong>open-source kernels and driver stacks</strong>.
           - task: Architecting and deploying <strong>firmware update mechanisms</strong> tailored to customer needs.

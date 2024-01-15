@@ -18,10 +18,10 @@
 
 // page header styles
 
-.page-header { padding: 1.5rem 0;
+.page-header {
 
   .avatar {
-    width: 95px;
+    width: 220px;
     max-width: 100%;
     overflow: hidden;
     @include border-radius(100px);
@@ -31,13 +31,25 @@
 
   .header-name {
     @include sans;
-    font-size: 3rem;
+    font-size: 2.6rem;
+    font-weight: 900;
+    text-align: center;
+    letter-spacing: -.15rem;
+    line-height: 1;
+    margin: 0rem 0 0;
+  }
+
+  .header-subname {
+    @include sans;
+    font-size: 1.7rem;
     font-weight: 900;
     text-align: center;
     letter-spacing: -.15rem;
     line-height: 1;
     margin: 1rem 0 0;
+    padding-bottom: 1.5rem;
   }
+
 
   .header-contact-info {
     @include sans;
