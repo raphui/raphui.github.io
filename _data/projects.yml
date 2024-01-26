@@ -1,16 +1,34 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
+# rnk
+- project: rnk
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  duration: 2013 &mdash; Present
+  url: "https://github.com/raphui/rnk"
+  description: rnk is a RTOS targeting ARM architecture, supporting STM32F4 and STM32L4 families. Features are&#58;
+  features:
+          - feature: Targeting Cortex-M
+          - feature: Premptive scheduling
+          - feature: Support static and dynamic application (using custom file format - RFLAT)
+          - feature: Isolation using MPU and privileged/unprivileged modes
+          - feature: Device tree support
+          - feature: POSIX API
+          - feature: SEGGER SystemView support
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# barebox
+- project: barebox
+  role: Contributor
+  duration: 2014 &mdash; Present
+  url: "https://git.pengutronix.de/cgit/barebox/log/?qt=author&q=poggi.raph%40gmail.com"
+  description: Contribute to barebox an open-source bootloader&#58;
+  features:
+          - feature: Add support of ARM64 architecture
+          - feature: Add support of device tree for Atmel SoC (including adding pinctrl and i2c drivers)
+          - feature: Add support of UDOO iMX6 Quad board
+ 
+# Linux Kernel
+- project: Linux Kernel
+  role: Contributor
+  duration: 2014 &mdash; Present
+  url: "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=poggi.raph%40gmail.com"
